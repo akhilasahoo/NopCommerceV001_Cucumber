@@ -1,0 +1,118 @@
+2020-05-11 14:56:36,089  INFO [main] Hello NonCOmmerce:83 - ********* Verifying Dashboad page title after login successful **************
+2020-05-11 14:56:39,111  INFO [main] Hello NonCOmmerce:90 - ********* Clicking on customer main menu **************
+2020-05-11 14:56:41,180  INFO [main] Hello NonCOmmerce:97 - ********* Clicking on customer sub menu **************
+2020-05-11 14:56:52,165  INFO [main] Hello NonCOmmerce:134 - ********* Saving customer details **************
+2020-05-11 14:56:55,512  INFO [main] Hello NonCOmmerce:74 - *********Closing application ***************
+2020-05-11 14:57:07,100  INFO [main] Hello NonCOmmerce:83 - ********* Verifying Dashboad page title after login successful **************
+2020-05-11 14:57:10,242  INFO [main] Hello NonCOmmerce:90 - ********* Clicking on customer main menu **************
+2020-05-11 14:57:12,307  INFO [main] Hello NonCOmmerce:97 - ********* Clicking on customer sub menu **************
+2020-05-11 14:57:13,638  INFO [main] Hello NonCOmmerce:156 - ********* Searching customer details by Email **************
+2020-05-11 14:57:17,064  INFO [main] Hello NonCOmmerce:74 - *********Closing application ***************
+2020-05-11 14:57:28,109  INFO [main] Hello NonCOmmerce:83 - ********* Verifying Dashboad page title after login successful **************
+2020-05-11 14:57:31,156  INFO [main] Hello NonCOmmerce:90 - ********* Clicking on customer main menu **************
+2020-05-11 14:57:33,218  INFO [main] Hello NonCOmmerce:97 - ********* Clicking on customer sub menu **************
+2020-05-11 14:57:34,039  INFO [main] Hello NonCOmmerce:175 - ********* Searching customer details by Name **************
+2020-05-11 14:57:37,479  INFO [main] Hello NonCOmmerce:74 - *********Closing application ***************
+2020-05-11 14:57:49,457  INFO [main] Hello NonCOmmerce:50 - *********Login Validation starts ***************
+2020-05-11 14:57:49,569  INFO [main] Hello NonCOmmerce:59 - *********Login successful ***************
+2020-05-11 14:58:00,446  INFO [main] Hello NonCOmmerce:50 - *********Login Validation starts ***************
+2020-05-11 14:58:00,454  INFO [main] Hello NonCOmmerce:59 - *********Login successful ***************
+2020-05-11 14:58:05,461  INFO [main] Hello NonCOmmerce:74 - *********Closing application ***************
+2020-05-11 14:58:18,518  INFO [main] Hello NonCOmmerce:50 - *********Login Validation starts ***************
+2020-05-11 14:58:18,591  INFO [main] Hello NonCOmmerce:59 - *********Login successful ***************
+2020-05-11 14:58:29,768  INFO [main] Hello NonCOmmerce:50 - *********Login Validation starts ***************
+2020-05-11 14:58:29,796  INFO [main] Hello NonCOmmerce:59 - *********Login successful ***************
+2020-05-11 14:58:34,824  INFO [main] Hello NonCOmmerce:74 - *********Closing application ***************
+2020-05-11 14:58:44,275  INFO [main] Hello NonCOmmerce:50 - *********Login Validation starts ***************
+2020-05-11 14:58:44,286  INFO [main] Hello NonCOmmerce:53 - *********Login Failed ***************
+2020-05-11 15:31:24,289  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 15:31:29,194  INFO [main] nopCommerceSDET:121 - ********* Verifying Dashboad page title after login successful **************
+2020-05-11 15:31:32,207  INFO [main] nopCommerceSDET:128 - ********* Clicking on customer main menu **************
+2020-05-11 15:31:34,299  INFO [main] nopCommerceSDET:135 - ********* Clicking on customer sub menu **************
+2020-05-11 15:31:45,784  INFO [main] nopCommerceSDET:172 - ********* Saving customer details **************
+2020-05-11 15:31:49,371  INFO [main] nopCommerceSDET:112 - *********Closing application ***************
+2020-05-11 15:31:59,525  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 15:32:05,979  INFO [main] nopCommerceSDET:121 - ********* Verifying Dashboad page title after login successful **************
+2020-05-11 15:32:09,001  INFO [main] nopCommerceSDET:128 - ********* Clicking on customer main menu **************
+2020-05-11 15:32:11,070  INFO [main] nopCommerceSDET:135 - ********* Clicking on customer sub menu **************
+2020-05-11 15:32:13,494  INFO [main] nopCommerceSDET:194 - ********* Searching customer details by Email **************
+2020-05-11 15:32:17,127  INFO [main] nopCommerceSDET:112 - *********Closing application ***************
+2020-05-11 15:32:24,923  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 15:32:31,030  INFO [main] nopCommerceSDET:121 - ********* Verifying Dashboad page title after login successful **************
+2020-05-11 15:32:34,051  INFO [main] nopCommerceSDET:128 - ********* Clicking on customer main menu **************
+2020-05-11 15:32:36,129  INFO [main] nopCommerceSDET:135 - ********* Clicking on customer sub menu **************
+2020-05-11 15:32:37,043  INFO [main] nopCommerceSDET:213 - ********* Searching customer details by Name **************
+2020-05-11 15:32:40,537  INFO [main] nopCommerceSDET:112 - *********Closing application ***************
+2020-05-11 15:36:17,016  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 15:36:21,794  INFO [main] nopCommerceSDET:121 - ********* Verifying Dashboad page title after login successful **************
+2020-05-11 15:36:24,901  INFO [main] nopCommerceSDET:128 - ********* Clicking on customer main menu **************
+2020-05-11 15:36:26,962  INFO [main] nopCommerceSDET:135 - ********* Clicking on customer sub menu **************
+2020-05-11 15:36:38,234  INFO [main] nopCommerceSDET:172 - ********* Saving customer details **************
+2020-05-11 15:36:41,588  INFO [main] nopCommerceSDET:112 - *********Closing application ***************
+2020-05-11 15:36:49,080  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 15:36:54,110  INFO [main] nopCommerceSDET:88 - *********Login Validation starts ***************
+2020-05-11 15:36:54,331  INFO [main] nopCommerceSDET:97 - *********Login successful ***************
+2020-05-11 15:37:05,199  INFO [main] nopCommerceSDET:88 - *********Login Validation starts ***************
+2020-05-11 15:37:05,208  INFO [main] nopCommerceSDET:97 - *********Login successful ***************
+2020-05-11 15:37:10,217  INFO [main] nopCommerceSDET:112 - *********Closing application ***************
+2020-05-11 20:35:48,004  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 20:35:52,737  INFO [main] nopCommerceSDET:121 - ********* Verifying Dashboad page title after login successful **************
+2020-05-11 20:35:55,751  INFO [main] nopCommerceSDET:128 - ********* Clicking on customer main menu **************
+2020-05-11 20:35:57,816  INFO [main] nopCommerceSDET:135 - ********* Clicking on customer sub menu **************
+2020-05-11 20:36:10,405  INFO [main] nopCommerceSDET:172 - ********* Saving customer details **************
+2020-05-11 20:36:13,851  INFO [main] nopCommerceSDET:112 - *********Closing application ***************
+2020-05-11 20:36:21,025  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 20:36:31,848  INFO [main] nopCommerceSDET:121 - ********* Verifying Dashboad page title after login successful **************
+2020-05-11 20:36:34,860  INFO [main] nopCommerceSDET:128 - ********* Clicking on customer main menu **************
+2020-05-11 20:36:36,942  INFO [main] nopCommerceSDET:135 - ********* Clicking on customer sub menu **************
+2020-05-11 20:36:37,941  INFO [main] nopCommerceSDET:194 - ********* Searching customer details by Email **************
+2020-05-11 20:36:41,351  INFO [main] nopCommerceSDET:112 - *********Closing application ***************
+2020-05-11 20:36:48,214  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 20:36:54,311  INFO [main] nopCommerceSDET:121 - ********* Verifying Dashboad page title after login successful **************
+2020-05-11 20:36:57,357  INFO [main] nopCommerceSDET:128 - ********* Clicking on customer main menu **************
+2020-05-11 20:36:59,447  INFO [main] nopCommerceSDET:135 - ********* Clicking on customer sub menu **************
+2020-05-11 20:37:00,401  INFO [main] nopCommerceSDET:213 - ********* Searching customer details by Name **************
+2020-05-11 20:37:03,916  INFO [main] nopCommerceSDET:112 - *********Closing application ***************
+2020-05-11 20:37:10,759  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 20:37:39,649  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 20:38:05,083  INFO [main] nopCommerceSDET:88 - *********Login Validation starts ***************
+2020-05-11 20:38:05,130  INFO [main] nopCommerceSDET:97 - *********Login successful ***************
+2020-05-11 20:38:16,066  INFO [main] nopCommerceSDET:88 - *********Login Validation starts ***************
+2020-05-11 20:38:16,082  INFO [main] nopCommerceSDET:97 - *********Login successful ***************
+2020-05-11 20:38:21,095  INFO [main] nopCommerceSDET:112 - *********Closing application ***************
+2020-05-11 20:38:27,358  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 20:38:36,255  INFO [main] nopCommerceSDET:88 - *********Login Validation starts ***************
+2020-05-11 20:38:36,267  INFO [main] nopCommerceSDET:91 - *********Login Failed ***************
+2020-05-11 20:44:57,316  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 20:45:02,744  INFO [main] nopCommerceSDET:121 - ********* Verifying Dashboad page title after login successful **************
+2020-05-11 20:45:05,754  INFO [main] nopCommerceSDET:128 - ********* Clicking on customer main menu **************
+2020-05-11 20:45:07,835  INFO [main] nopCommerceSDET:135 - ********* Clicking on customer sub menu **************
+2020-05-11 20:45:18,464  INFO [main] nopCommerceSDET:172 - ********* Saving customer details **************
+2020-05-11 20:45:21,908  INFO [main] nopCommerceSDET:112 - *********Closing application ***************
+2020-05-11 20:45:49,384  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 20:45:53,597  INFO [main] nopCommerceSDET:121 - ********* Verifying Dashboad page title after login successful **************
+2020-05-11 20:45:56,606  INFO [main] nopCommerceSDET:128 - ********* Clicking on customer main menu **************
+2020-05-11 20:45:58,656  INFO [main] nopCommerceSDET:135 - ********* Clicking on customer sub menu **************
+2020-05-11 20:45:59,485  INFO [main] nopCommerceSDET:194 - ********* Searching customer details by Email **************
+2020-05-11 20:46:02,908  INFO [main] nopCommerceSDET:112 - *********Closing application ***************
+2020-05-11 20:46:30,691  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 20:46:34,040  INFO [main] nopCommerceSDET:121 - ********* Verifying Dashboad page title after login successful **************
+2020-05-11 20:46:37,047  INFO [main] nopCommerceSDET:128 - ********* Clicking on customer main menu **************
+2020-05-11 20:46:39,102  INFO [main] nopCommerceSDET:135 - ********* Clicking on customer sub menu **************
+2020-05-11 20:46:40,073  INFO [main] nopCommerceSDET:213 - ********* Searching customer details by Name **************
+2020-05-11 20:46:43,641  INFO [main] nopCommerceSDET:112 - *********Closing application ***************
+2020-05-11 20:46:47,605  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 20:46:51,731  INFO [main] nopCommerceSDET:88 - *********Login Validation starts ***************
+2020-05-11 20:46:51,755  INFO [main] nopCommerceSDET:97 - *********Login successful ***************
+2020-05-11 20:47:02,699  INFO [main] nopCommerceSDET:88 - *********Login Validation starts ***************
+2020-05-11 20:47:02,722  INFO [main] nopCommerceSDET:97 - *********Login successful ***************
+2020-05-11 20:47:07,736  INFO [main] nopCommerceSDET:112 - *********Closing application ***************
+2020-05-11 20:47:11,592  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 20:47:26,641  INFO [main] nopCommerceSDET:88 - *********Login Validation starts ***************
+2020-05-11 20:47:26,694  INFO [main] nopCommerceSDET:97 - *********Login successful ***************
+2020-05-11 20:47:37,597  INFO [main] nopCommerceSDET:88 - *********Login Validation starts ***************
+2020-05-11 20:47:37,620  INFO [main] nopCommerceSDET:97 - *********Login successful ***************
+2020-05-11 20:47:42,633  INFO [main] nopCommerceSDET:112 - *********Closing application ***************
+2020-05-11 20:48:09,938  INFO [main] nopCommerceSDET:62 - Launching Broswer
+2020-05-11 20:48:11,490  INFO [main] nopCommerceSDET:88 - *********Login Validation starts ***************
+2020-05-11 20:48:11,510  INFO [main] nopCommerceSDET:91 - *********Login Failed ***************
